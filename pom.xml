@@ -9,7 +9,7 @@
 	<name>SimpleDatabaseLibrary</name>
 	<description>A Simple Library for low-complexity interactions with Databases.</description>
 	<url>https://github.com/Drachir000/SimpleDatabaseLibrary</url>
-	<version>0.0.0-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
 	<developers>
